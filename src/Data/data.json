@@ -1,0 +1,18 @@
+{
+  "db_data": [
+    {
+      "name": "Mukul Kumar",
+      "age": "30",
+      "address": "Delhi",
+      "email": "mukul21187@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Chutiya Kumar",
+      "age": "28",
+      "address": "Bahen ka Lauda",
+      "email": "Loda87@gmail.com",
+      "id": 2
+    }
+  ]
+}
